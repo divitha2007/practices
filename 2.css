@@ -1,0 +1,14 @@
+p{
+    color: blueviolet;
+    background-color: cornflowerblue;
+    border: 3px solid rebeccapurple;
+    padding: 20px 30px;
+    font-size: 45px;
+}  
+body{
+    color: blue;
+    background-color: darkgreen;
+    border: 5px solid black;
+    margin: 60px;
+    font-size: 45px;
+}
